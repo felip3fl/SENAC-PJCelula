@@ -1,9 +1,6 @@
-# SENAC - Projeto Celula
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/234344493-8ee234ee-a893-46f2-860e-27765a82d671.png" width="30%" align="center" ><BR>PROJETO SUPER-MERCADO CELULA<BR><BR>
 
-
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/211394469-42e0ba5f-961c-4093-a3ab-be28cd57d702.png" width="30%" align="center" ><BR>ALERTA<BR><BR>
-
-<img src="https://img.shields.io/badge/STATUS-FINALIZADO-yellow">
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-blue">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-blue">
 
 </h3>
