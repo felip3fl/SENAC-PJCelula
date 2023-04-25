@@ -8,7 +8,7 @@
 ## 📃 Descrição do projeto
 
 <p align="justify">
- Projeto DMAC Alerta desenvolvido em VB6 seguintos os padrões dos projeto DMAC (De Meo Automação comercial)
+ Projeto Super-mercado Celula desenvolvido em VB6, usado como projeto final do módulo 3 do curso SENAC
 </p>
 
 <BR>
